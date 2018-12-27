@@ -54,6 +54,5 @@
 - 연말 계획 : 안전한 이불속에 있을 예정<br>
 
 ---
-사진
-
+<img src="http://beigelcaffe.co.kr/upload/menu_01/2015_12_03/hero_uU7Vr_2015_12_03_10_37_06.png">
 ---
