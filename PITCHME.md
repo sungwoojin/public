@@ -12,7 +12,7 @@
 
 ---
 사진
-![image](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjfqPeMvL_fAhWJwLwKHSZAAo8QjRx6BAgBEAU&url=https%3A%2F%2Fko.wikipedia.org%2Fwiki%2F%25ED%2595%2598%25EB%258A%2598&psig=AOvVaw1aZDDwpmemwXrX_cpiLp8h&ust=1545981521209254)
+<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwjfqPeMvL_fAhWJwLwKHSZAAo8QjRx6BAgBEAU&url=https%3A%2F%2Fko.wikipedia.org%2Fwiki%2F%25ED%2595%2598%25EB%258A%2598&psig=AOvVaw1aZDDwpmemwXrX_cpiLp8h&ust=1545981521209254">
 ---
 # 김기범<br>
 - 별명 : 점박이<br>
