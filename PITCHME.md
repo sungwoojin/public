@@ -46,8 +46,7 @@
 - 연말 계획 : 연말은 협곡에서<br>
 
 ---
-사진
-
+<img src="http://3.bp.blogspot.com/-My5zWnx81rA/UxZU22gy7gI/AAAAAAAANFI/ukKdH2i7flg/s1600/abvp.jpg">
 ---
 # 임하슬린<br>
 - 별명 : 임하<br>
