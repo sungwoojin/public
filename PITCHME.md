@@ -28,7 +28,7 @@
 - 연말계획 : 버스킹(at home)<br>
 
 ---
-
+<img src="https://st2.depositphotos.com/3277955/7532/v/950/depositphotos_75329801-stock-illustration-man-with-curly-black-hair.jpg">
 
 ---
 # 성우진<br>
