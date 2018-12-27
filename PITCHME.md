@@ -11,7 +11,6 @@
 - 연말 계획 : 필리핀 가서 다이빙할 예정<br>
 
 ---
-사진
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Skyshot.jpg">
 ---
 # 김기범<br>
