@@ -19,7 +19,7 @@
 - 연말 계획 : 부산으로 피신<br>
 
 ---
-사진
+<img src="https://i.ibb.co/rFyQMjt/B612-20181227-161833-671.jpg">
 
 ---
 # 이정찬<br>
@@ -28,7 +28,7 @@
 - 연말계획 : 버스킹(at home)<br>
 
 ---
-사진
+
 
 ---
 # 성우진<br>
@@ -37,7 +37,7 @@
 - 연말 계획 : 마우스 살 예정<br>
 
 ---
-사진
+<img src="https://ext.fmkorea.com/files/attach/new/20161129/486616/491814989/521876913/99b983892094b5c6d2fc3736e15da7d1.jpg">
 
 ---
 # 김태호<br>
@@ -55,4 +55,5 @@
 
 ---
 <img src="http://beigelcaffe.co.kr/upload/menu_01/2015_12_03/hero_uU7Vr_2015_12_03_10_37_06.png">
+
 ---
