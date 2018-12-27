@@ -12,6 +12,7 @@
 
 ---
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Skyshot.jpg">
+
 ---
 # 김기범<br>
 - 별명 : 점박이<br>
@@ -47,6 +48,7 @@
 
 ---
 <img src="http://3.bp.blogspot.com/-My5zWnx81rA/UxZU22gy7gI/AAAAAAAANFI/ukKdH2i7flg/s1600/abvp.jpg">
+
 ---
 # 임하슬린<br>
 - 별명 : 임하<br>
